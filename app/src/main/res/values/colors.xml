@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E9B7D6</color>
+    <color name="colorPrimaryDark">#EED1F5</color>
+    <color name="colorAccent">#1B2ED8</color>
+    <color name="popupcolor">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="font">#D6D1D1</color>
+    <color name="background">#3A3838</color>>
+    <color name="transparent">#003A3838</color>
+    <color name="whatsapp">#253A3838</color>
+</resources>

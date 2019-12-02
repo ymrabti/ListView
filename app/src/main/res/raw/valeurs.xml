@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<colors>
+    <color name="rouge" value ="#FF0000"/>
+    <color name="rose" value="#F981FF"/>
+    <color name="jaune" value="#FFFF00"/>
+    <color name="noir" value="#1f1f1f"/>
+    <color name="vert" value="#00ff00"/>
+    <color name="blanc" value="#f1f1f1"/>
+    <color name="gris"  value="#808080"/>
+</colors>
+

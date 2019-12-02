@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string name="desk">nezuko</string>
+    <string name="deskr">images</string>
+    <string name="title_activity_main2">WhatsApp</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="butt">Autre Activity</string>
+    <string name="nom">Nezuku</string>
+    <string name="textbutton">  Application</string>
+
+
+    <string name="hello_world">Hello world!</string>
+    <string name="adresult">ads result</string>
+
+
+</resources>
