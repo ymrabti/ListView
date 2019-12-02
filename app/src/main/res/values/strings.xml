@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string name="desk">nezuko</string>
+    <string name="deskr">images</string>
+    <string name="title_activity_main2">WhatsApp</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="butt">Autre Activity</string>
+    <string name="nom">Nezuku</string>
+    <string name="quitter">X</string>
+    <string name="folow">continuer</string>
+
+
+    <string name="adresult">ad result</string>
+    <string name="loaded">good job, ad loaded</string>
+    <string name="failed">fail to load ad, code error :</string>
+    <string name="clicked">ad clicked</string>
+    <string name="opened">ad opened</string>
+    <string name="closed">ad closed</string>
+    <string name="leftapp">app quited</string>
+</resources>
